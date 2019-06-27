@@ -18,3 +18,13 @@ D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\AccountOperationAppPractice1\A
 D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\AccountOperationAppPractice1\AccountOperationAppPractice1\obj\Debug\AccountOperationAppPractice1.csproj.CoreCompileInputs.cache
 D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\AccountOperationAppPractice1\AccountOperationAppPractice1\obj\Debug\AccountOperationAppPractice1.exe
 D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\AccountOperationAppPractice1\AccountOperationAppPractice1\obj\Debug\AccountOperationAppPractice1.pdb
+D:\ASP.NET Work\BITM Course Files\GIT Files\IntroduceOOPPractice\Introduction OOP\Practices\AccountOperationAppPractice1\AccountOperationAppPractice1\bin\Debug\AccountOperationAppPractice1.exe.config
+D:\ASP.NET Work\BITM Course Files\GIT Files\IntroduceOOPPractice\Introduction OOP\Practices\AccountOperationAppPractice1\AccountOperationAppPractice1\bin\Debug\AccountOperationAppPractice1.exe
+D:\ASP.NET Work\BITM Course Files\GIT Files\IntroduceOOPPractice\Introduction OOP\Practices\AccountOperationAppPractice1\AccountOperationAppPractice1\bin\Debug\AccountOperationAppPractice1.pdb
+D:\ASP.NET Work\BITM Course Files\GIT Files\IntroduceOOPPractice\Introduction OOP\Practices\AccountOperationAppPractice1\AccountOperationAppPractice1\obj\Debug\AccountOperationAppPractice1.csprojAssemblyReference.cache
+D:\ASP.NET Work\BITM Course Files\GIT Files\IntroduceOOPPractice\Introduction OOP\Practices\AccountOperationAppPractice1\AccountOperationAppPractice1\obj\Debug\AccountOperationAppPractice1.AccountOperationUi.resources
+D:\ASP.NET Work\BITM Course Files\GIT Files\IntroduceOOPPractice\Introduction OOP\Practices\AccountOperationAppPractice1\AccountOperationAppPractice1\obj\Debug\AccountOperationAppPractice1.Properties.Resources.resources
+D:\ASP.NET Work\BITM Course Files\GIT Files\IntroduceOOPPractice\Introduction OOP\Practices\AccountOperationAppPractice1\AccountOperationAppPractice1\obj\Debug\AccountOperationAppPractice1.csproj.GenerateResource.cache
+D:\ASP.NET Work\BITM Course Files\GIT Files\IntroduceOOPPractice\Introduction OOP\Practices\AccountOperationAppPractice1\AccountOperationAppPractice1\obj\Debug\AccountOperationAppPractice1.csproj.CoreCompileInputs.cache
+D:\ASP.NET Work\BITM Course Files\GIT Files\IntroduceOOPPractice\Introduction OOP\Practices\AccountOperationAppPractice1\AccountOperationAppPractice1\obj\Debug\AccountOperationAppPractice1.exe
+D:\ASP.NET Work\BITM Course Files\GIT Files\IntroduceOOPPractice\Introduction OOP\Practices\AccountOperationAppPractice1\AccountOperationAppPractice1\obj\Debug\AccountOperationAppPractice1.pdb

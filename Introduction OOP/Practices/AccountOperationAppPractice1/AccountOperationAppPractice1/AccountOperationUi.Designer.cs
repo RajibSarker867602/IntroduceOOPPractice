@@ -81,6 +81,7 @@
             this.DipositButton.TabIndex = 13;
             this.DipositButton.Text = "Diposit";
             this.DipositButton.UseVisualStyleBackColor = true;
+            this.DipositButton.Click += new System.EventHandler(this.DipositButton_Click);
             // 
             // WithdrawButton
             // 
@@ -90,6 +91,7 @@
             this.WithdrawButton.TabIndex = 13;
             this.WithdrawButton.Text = "Withdraw";
             this.WithdrawButton.UseVisualStyleBackColor = true;
+            this.WithdrawButton.Click += new System.EventHandler(this.WithdrawButton_Click);
             // 
             // groupBox1
             // 
@@ -131,6 +133,7 @@
             this.CreateButton.TabIndex = 13;
             this.CreateButton.Text = "Create";
             this.CreateButton.UseVisualStyleBackColor = true;
+            this.CreateButton.Click += new System.EventHandler(this.CreateButton_Click);
             // 
             // accountNoTextBox
             // 
@@ -154,6 +157,7 @@
             this.ReportButton.TabIndex = 15;
             this.ReportButton.Text = "Report";
             this.ReportButton.UseVisualStyleBackColor = true;
+            this.ReportButton.Click += new System.EventHandler(this.ReportButton_Click);
             // 
             // AccountOperationUi
             // 
