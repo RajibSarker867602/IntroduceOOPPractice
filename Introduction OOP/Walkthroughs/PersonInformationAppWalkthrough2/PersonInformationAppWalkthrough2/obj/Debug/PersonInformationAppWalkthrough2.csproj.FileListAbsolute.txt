@@ -1,0 +1,20 @@
+C:\Users\Mamun vai\source\repos\PersonInformationAppWalkthrough2\PersonInformationAppWalkthrough2\obj\Debug\PersonInformationAppWalkthrough2.csprojAssemblyReference.cache
+C:\Users\Mamun vai\source\repos\PersonInformationAppWalkthrough2\PersonInformationAppWalkthrough2\obj\Debug\PersonInformationAppWalkthrough2.Properties.Resources.resources
+C:\Users\Mamun vai\source\repos\PersonInformationAppWalkthrough2\PersonInformationAppWalkthrough2\obj\Debug\PersonInformationAppWalkthrough2.csproj.GenerateResource.cache
+C:\Users\Mamun vai\source\repos\PersonInformationAppWalkthrough2\PersonInformationAppWalkthrough2\obj\Debug\PersonInformationAppWalkthrough2.csproj.CoreCompileInputs.cache
+C:\Users\Mamun vai\source\repos\PersonInformationAppWalkthrough2\PersonInformationAppWalkthrough2\obj\Debug\PersonInformationAppWalkthrough2.PersonInformationUi.resources
+C:\Users\Mamun vai\source\repos\PersonInformationAppWalkthrough2\PersonInformationAppWalkthrough2\bin\Debug\PersonInformationAppWalkthrough2.exe.config
+C:\Users\Mamun vai\source\repos\PersonInformationAppWalkthrough2\PersonInformationAppWalkthrough2\bin\Debug\PersonInformationAppWalkthrough2.exe
+C:\Users\Mamun vai\source\repos\PersonInformationAppWalkthrough2\PersonInformationAppWalkthrough2\bin\Debug\PersonInformationAppWalkthrough2.pdb
+C:\Users\Mamun vai\source\repos\PersonInformationAppWalkthrough2\PersonInformationAppWalkthrough2\obj\Debug\PersonInformationAppWalkthrough2.exe
+C:\Users\Mamun vai\source\repos\PersonInformationAppWalkthrough2\PersonInformationAppWalkthrough2\obj\Debug\PersonInformationAppWalkthrough2.pdb
+D:\ASP.NET Work\BITM Course Files\Resource\Class Resources\Introduction OOP\Walkthroughs\PersonInformationAppWalkthrough2\PersonInformationAppWalkthrough2\bin\Debug\PersonInformationAppWalkthrough2.exe.config
+D:\ASP.NET Work\BITM Course Files\Resource\Class Resources\Introduction OOP\Walkthroughs\PersonInformationAppWalkthrough2\PersonInformationAppWalkthrough2\bin\Debug\PersonInformationAppWalkthrough2.exe
+D:\ASP.NET Work\BITM Course Files\Resource\Class Resources\Introduction OOP\Walkthroughs\PersonInformationAppWalkthrough2\PersonInformationAppWalkthrough2\bin\Debug\PersonInformationAppWalkthrough2.pdb
+D:\ASP.NET Work\BITM Course Files\Resource\Class Resources\Introduction OOP\Walkthroughs\PersonInformationAppWalkthrough2\PersonInformationAppWalkthrough2\obj\Debug\PersonInformationAppWalkthrough2.csprojAssemblyReference.cache
+D:\ASP.NET Work\BITM Course Files\Resource\Class Resources\Introduction OOP\Walkthroughs\PersonInformationAppWalkthrough2\PersonInformationAppWalkthrough2\obj\Debug\PersonInformationAppWalkthrough2.PersonInformationUi.resources
+D:\ASP.NET Work\BITM Course Files\Resource\Class Resources\Introduction OOP\Walkthroughs\PersonInformationAppWalkthrough2\PersonInformationAppWalkthrough2\obj\Debug\PersonInformationAppWalkthrough2.Properties.Resources.resources
+D:\ASP.NET Work\BITM Course Files\Resource\Class Resources\Introduction OOP\Walkthroughs\PersonInformationAppWalkthrough2\PersonInformationAppWalkthrough2\obj\Debug\PersonInformationAppWalkthrough2.csproj.GenerateResource.cache
+D:\ASP.NET Work\BITM Course Files\Resource\Class Resources\Introduction OOP\Walkthroughs\PersonInformationAppWalkthrough2\PersonInformationAppWalkthrough2\obj\Debug\PersonInformationAppWalkthrough2.csproj.CoreCompileInputs.cache
+D:\ASP.NET Work\BITM Course Files\Resource\Class Resources\Introduction OOP\Walkthroughs\PersonInformationAppWalkthrough2\PersonInformationAppWalkthrough2\obj\Debug\PersonInformationAppWalkthrough2.exe
+D:\ASP.NET Work\BITM Course Files\Resource\Class Resources\Introduction OOP\Walkthroughs\PersonInformationAppWalkthrough2\PersonInformationAppWalkthrough2\obj\Debug\PersonInformationAppWalkthrough2.pdb
